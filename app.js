@@ -1,13 +1,13 @@
-<!-- ============================================================ -->
-<!-- FILE: app.js -->
-<!-- MỤC ĐÍCH: File chính của ứng dụng Node.js/Express -->
-<!-- MÔ TẢ: File này chứa: -->
-<!-- 1. Cấu hình Express server -->
-<!-- 2. Thiết lập EJS templating engine -->
-<!-- 3. Cấu hình serving static files (CSS, JS, images) -->
-<!-- 4. Định nghĩa routes của ứng dụng -->
-<!-- 5. Start server trên port được chỉ định -->
-<!-- ============================================================ -->
+//<!-- ============================================================ -->
+//<!-- FILE: app.js -->
+//<!-- MỤC ĐÍCH: File chính của ứng dụng Node.js/Express -->
+//<!-- MÔ TẢ: File này chứa: -->
+//<!-- 1. Cấu hình Express server -->
+//<!-- 2. Thiết lập EJS templating engine -->
+//<!-- 3. Cấu hình serving static files (CSS, JS, images) -->
+//<!-- 4. Định nghĩa routes của ứng dụng -->
+//<!-- 5. Start server trên port được chỉ định -->
+//<!-- ============================================================ -->
 
 // PHẦN 1: IMPORT DEPENDENCIES (Nhập các thư viện cần thiết)
 // ============================================================
